@@ -131,3 +131,7 @@ reserWir/
 │   └── reservierungen.sqlite
 └── README.md
 ```
+---
+Unter GPL-3.0-Lizenz
+Die Software wird so angeboten, wie sie ist.
+Entwickelt mit Hilfe von Antigravity & Claude Code
